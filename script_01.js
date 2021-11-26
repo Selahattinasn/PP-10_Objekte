@@ -2,10 +2,12 @@
 /***** Erinnerung: Arrays *******/
 // let arr;
 // arr = ["Ich","bin","Max"];
-// ausgabe(arr);
-// ausgabe(arr[2]);
+// output(arr);
+// output(arr[2]);
 
-
+// arr = [["Ich","bin","Max"],["Ich","bin","Moritz"]];
+// output(arr[0][2]);
+// output(arr[1][2]);
 
 
 /***** Objekte 1 Daten/Funktionen *******/
